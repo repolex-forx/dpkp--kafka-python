@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dpkp/kafka-python/commit/cd3f7938e1c119fa1e78c333778767606c2a802f",
       "git:hexsha": "cd3f7938e1c119fa1e78c333778767606c2a802f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dpkp/kafka-python/commit/26414d4a993b6d0fd9074b2e7c4abc4230ae52eb",

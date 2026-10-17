@@ -1,0 +1,7 @@
+[2026-10-17T00:24:01Z] === AST ITERATION 1 START | repo=dpkp/kafka-python sha=cd3f7938 ===
+[2026-10-17T00:24:01Z] [iter=1] PHASE START: ast repo=dpkp/kafka-python sha=cd3f7938
+[2026-10-17T00:24:01Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T00:29:37Z] [iter=1] AST chunks built count=1 triples=2977329
+[2026-10-17T00:29:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/cd3f7938e1c119fa1e78c333778767606c2a802f/.complete
+[2026-10-17T00:29:37Z] [iter=1] PHASE END: ast elapsed_s=336 elapsed_min=5.6
+[2026-10-17T00:29:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
