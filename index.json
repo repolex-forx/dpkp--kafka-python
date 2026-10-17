@@ -1,0 +1,11 @@
+{
+  "org": "dpkp",
+  "repo": "kafka-python",
+  "versions": [
+    {
+      "commit": "cd3f7938e1c119fa1e78c333778767606c2a802f",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:31:12.939905+00:00"
+    }
+  ]
+}
